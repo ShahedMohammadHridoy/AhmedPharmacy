@@ -1,12 +1,12 @@
 body {
-    background-color: #9C27B0;
+    background-color: #3F51B5; /*500*/
     margin: 0;
 }
 
 .login-card {
     max-width: 350px;
     padding: 40px;
-    background-color: #F3E5F5;
+    background-color: #E8EAF6; /*50*/
     margin: 50px auto;
 }
 
@@ -20,10 +20,10 @@ body {
 }
 
 .login-button {
-    color: #F3E5F5;
+    color: #E8EAF6; /*50*/
     border: none;
     height: 36px;
-    background-color: #9C27B0;
+    background-color: #3F51B5; /*500*/
     padding: 0;
     width: 100%;
     transition: all 0.218s;
@@ -34,18 +34,18 @@ body {
 .login-button:hover,
 .login-button:active,
 .login-button:focus {
-    color: #F3E5F5;
-    background-color: #4A148C;
+    color: #E8EAF6; /*50*/
+    background-color: #1A237E; /*900*/
 }
 
 .dashboard-card {
     margin: auto;
     max-width: 700px;
-    background-color: #F3E5F5;
+    background-color: #E8EAF6; /*50*/
 }
 
 .dashboard-card h1 {
-    color: #4A148C;
+    color: #1A237E; /*900*/
     text-align: center;
 }
 
@@ -53,13 +53,13 @@ body {
     padding: 40px;
     margin: 50px auto;
     max-width: 700px;
-    background-color: #F3E5F5;
+    background-color: #E8EAF6; /*50*/
 }
 
 .send-order-data-card {
     margin: 10px auto;
-    background-color: #4A148C;
-    color: #F3E5F5;
+    background-color: #1A237E; /*900*/
+    color: #E8EAF6; /*50*/
 }
 
 .sl-column {
